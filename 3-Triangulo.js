@@ -40,4 +40,4 @@ else {
     console.log('NAO É TRIANGULO');
 }
 
-console.log('fim do programa');
+console.log('Fiim do programa');
